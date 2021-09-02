@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimitar
 - 👀 I’m interested in everything related to web development
-- 🌱 I’m currently learning nest.js and type script
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate as a front-end developer on any kind of project
 - 📫 How to reach me - you can write me on mitev.dimitar@gmail.com
 
